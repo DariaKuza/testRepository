@@ -2,6 +2,7 @@ package Lesson2;
 
 /**
  * Created by Daria
+ *
  */
 public class HomeWorkApp {
     public static void main(String[] args) {
